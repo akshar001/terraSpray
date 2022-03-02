@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:48:15 PM On 15-Oct-21
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Terra_Spray.PrjPCB]
+   Generated File[Bill of Materials-Terra_Spray.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:48:15 PM On 15-Oct-21

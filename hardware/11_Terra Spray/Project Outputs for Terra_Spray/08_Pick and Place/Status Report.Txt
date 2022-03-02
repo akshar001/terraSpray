@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 7:50:13 PM On 23-Sep-21
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Terra Spray panel 16 pcb.PcbDoc]
+   Generated File[Pick Place for Terra Spray panel 16 pcb.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:50:17 PM On 23-Sep-21

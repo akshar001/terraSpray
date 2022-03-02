@@ -1,0 +1,20 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:44:41 PM On 09-Sep-21
+
+Output: Copy Files
+Type  : Copy Files
+From  : Project [Terra_Spray.PrjPCB]
+   Generated File[Terra_Spray.PcbDoc]
+   Generated File[Terra_Spray.SchDoc]
+   Generated File[Terra_Spray.PcbLib]
+   Generated File[Terra_Spray.SCHLIB]
+   Generated File[Pd's PcbLib.PcbLib]
+   Generated File[Pd's Sch Lib.SchLib]
+   Generated File[Standard_Job.OutJob]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 2:44:42 PM On 09-Sep-21

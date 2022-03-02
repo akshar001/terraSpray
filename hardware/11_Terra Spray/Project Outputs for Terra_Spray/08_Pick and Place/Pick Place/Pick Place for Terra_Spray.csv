@@ -1,0 +1,76 @@
+Altium Designer Pick and Place Locations
+E:\#pd\External project\12_Terra Spray\Project Outputs for Terra_Spray\08_Pick and Place\Pick Place\Pick Place for Terra_Spray.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09-09-21
+Time:       14:45
+Revision:   3717c1bd0e2e02ebf64dca28f79e342267b06e0f
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Value"
+"R10","Resistor","TopLayer","RESC0402","19.7750","33.1500","180","Thick Film Resistor -  10Kohm, 1%, 0402","10K"
+"R13","Resistor","TopLayer","RESC0402","23.0250","32.0750","360","Thick Film Resistor -  1Mohm, 1%, 0402","1M"
+"A1","Antenna_1","TopLayer","ESP32_ANT","32.9000","24.3566","270","PCB Antenna",""
+"C2","Capacitor","BottomLayer","CAPC0603","10.7696","35.1536","180","Ceramic Capacitor,22uF,0603,6.3V","22uF"
+"X1","CRYSTAL_1","TopLayer","CRYSTAL_3225","24.4000","20.3000","180","40MHz ±10ppm 10pF 30O SMD-3225 SMD Crystal Resonators RoHS",""
+"R6","Resistor","BottomLayer","RESC0603","24.2064","15.5956","90","Thick Film Resistor -  820ohm, 1%, 0603","820E"
+"Q3","PNP BJT Transistor","BottomLayer","SOT-23","21.6662","13.4648","270","ON SEMICONDUCTOR - MMBT3906LT1G - Bipolar (BJT) Single Transistor, General Purpose, PNP, -40 V, 250 MHz, 225 mW, -200 mA, 300 hFE",""
+"Q2","NPN BJT Transistor","BottomLayer","SOT-23","18.2880","13.4726","270","Bipolar Transistors - BJT SOT-23 NPN",""
+"L3","Inductor","TopLayer","INDUCTOR_0402","29.9250","25.4748","360","2nH ±0.3nH 900mA 120mO 0402 Inductors (SMD) RoHS",""
+"L2","Inductor","TopLayer","INDUCTOR_0402","29.0439","28.2638","360","2nH ±0.3nH 900mA 120mO 0402 Inductors (SMD) RoHS",""
+"D3","B0540W","BottomLayer","SOD123_-_DUPLICATE","19.1262","16.6878","180","Diode Schottky 40V 0.5A 2-Pin SOD-123 T/R",""
+"D2","B0540W","BottomLayer","SOD123_-_DUPLICATE","19.1262","18.7452","0","Diode Schottky 40V 0.5A 2-Pin SOD-123 T/R",""
+"C26","Cap","BottomLayer","CAPC0402","21.1750","30.6500","270","Ceramic Capacitor,100nF,0402,6.3V","100nF"
+"C25","Cap","BottomLayer","CAPC0402","23.9750","30.6500","270","Ceramic Capacitor,100nF,0402,6.3V","100nF"
+"C24","Cap","BottomLayer","CAPC0402","26.3144","25.4174","180","Ceramic Capacitor,100nF,0402,6.3V","100nF"
+"C23","Cap","TopLayer","capc0402","22.0250","33.1750","360","Ceramic Capacitor,18pF,0402,50V","18pF"
+"C22","Cap","TopLayer","capc0402","24.0250","33.1750","180","Ceramic Capacitor,18pF,0402,50V","18pF"
+"C21","Cap","BottomLayer","CAPC0402","15.7226","14.4526","270","Ceramic Capacitor,100nF,0402,6.3
+V","100nF"
+"C20","Cap","BottomLayer","CAPC0402","24.8158","24.9174","90","Ceramic Capacitor,100nF,0402,6.3V","100nF"
+"C19","Cap","BottomLayer","CAPC0402","23.7998","24.9174","90","Ceramic Capacitor,100nF,0402,6.3V","100nF"
+"C18","Cap","BottomLayer","CAPC0402","21.5900","24.9174","90","Ceramic Capacitor,100nF,0402,6.3V","100nF"
+"C17","Cap","TopLayer","CAPC0402","17.9000","29.9000","180","Ceramic Capacitor,100nF,0402,6.3V","100nF"
+"C15","Capacitor","BottomLayer","CAPC0603","15.7226","16.9926","90","Ceramic Capacitor,10uF,0603,10V","10uF"
+"C14","Capacitor","BottomLayer","CAPC0603","22.5552","17.7292","270","Ceramic Capacitor,10uF,0603,10V","10uF"
+"C13","Capacitor","TopLayer","CAPC0402","28.2750","24.9750","90","",""
+"C12","Capacitor","TopLayer","CAPC0402","31.5750","24.9750","90","",""
+"C9","Cap","TopLayer","CAPC0402","29.1189","27.0192","360","Ceramic Capacitor,100nF,0402,6.3V","100nF"
+"C8","Cap","TopLayer","CAPC0402","29.1189","29.5084","360","Ceramic Capacitor,100nF,0402,6.3V","100nF"
+"Y1","32.768KHz","BottomLayer","32.728KHZ","13.1572","8.9916","270","Crystal Oscillator",""
+"Y2","32.768KHz","TopLayer","32.728KHZ","22.8750","35.2500","270","Crystal Oscillator",""
+"U3","DS1307Z+","BottomLayer","SOIC-8","12.0650","14.1478","90","SERIAL TIME CHIP 8PIN, SOIC",""
+"S3","WIFI","TopLayer","FSMJ_-_SMD_-_WIFI","21.0312","15.3416","90","Pushbutton 6x6mm, Actuator Height off PCB, Vertical 9.50mm",""
+"R12","Resistor","BottomLayer","RESC0603","29.3116","27.8984","90","Thick Film Resistor -  309Kohm, 1%, 0603","309K"
+"R11","Resistor","BottomLayer","RESC0603","29.3116","30.9464","90","Thick Film Resistor -  220Kohm, 1%, 0603","220K"
+"R7","Resistor","TopLayer","RESC0402","13.0511","13.3250","270","Thick Film Resistor -  10Kohm, 1%, 0402","10K"
+"C7","Capacitor","TopLayer","CAPC0402","29.1189","30.7530","360","Ceramic Capacitor,1uF,0402,6.3V","1uF"
+"C6","Capacitor","TopLayer","CAPC0603","29.4000","32.1500","360","Ceramic Capacitor,10uF,0603,10V","10uF"
+"C5","Cap","TopLayer","CAPC0402","23.4250","22.5750","360","Ceramic Capacitor,22pF,0402,50V","22pF"
+"C16","Cap","TopLayer","CAPC0402","14.4018","13.3249","270","Ceramic Capacitor,100nF,0402,6.3
+V","100nF"
+"S1","Boot","TopLayer","SWITCH_REPLACEMENT","29.9720","15.3416","270","Header, 2-Pin",""
+"U2","ESP32-S2","TopLayer","QFN56-7X7MM","23.3680","27.6606","180","WiFi 802.11b/g/n Transceiver Module 2.4GHz",""
+"L1","Inductor","BottomLayer","INDP5050X20N","11.2522","24.3332","360","WURTH ELEKTRONIK - 74404052022 - Power Inductor (SMD), 2.2 µH, 3 A, Semishielded, 3.6 A, WE-LQS Series, 5mm x 5mm x 2mm","2.2uH-3A"
+"U1","PAM2401SCADJ","BottomLayer","8-TSSOP,_8-MSOP","10.0076","29.9974","90","IC REG BOOST ADJ 3A SYNC 8MSOP",""
+"R9","Resistor","TopLayer","RESC0402","10.1500","13.3250","90","Thick Film Resistor -  10Kohm, 1%, 0402","10K"
+"R8","Resistor","TopLayer","RESC0402","11.6006","13.3250","90","Thick Film Resistor -  10Kohm, 1%, 0402","10K"
+"R5","Resistor","TopLayer","RESC0402","17.6750","8.3500","90","Thick Film Resistor -  10Kohm, 1%, 0402","10K"
+"R4","Resistor","TopLayer","RESC0603","6.5466","10.3378","90","Thick Film Resistor -  100Kohm, 1%, 0603","100K"
+"R3","Resistor","TopLayer","RESC0603","4.8895","10.3618","90","Thick Film Resistor -  100ohm, 1%, 0603","100E"
+"R2","Resistor","BottomLayer","RESC0603","7.4678","34.3935","90","Thick Film Resistor -  100Kohm, 1%, 0603","100K"
+"R1","Resistor","BottomLayer","RESC0603","7.4674","31.2928","270","Thick Film Resistor -  453Kohm, 1%, 0603","453K"
+"Q1","Mosfet","TopLayer","SOT-363","2.7681","10.3558","90","N-Channel 20V 3.2A (Ta) 1W (Ta) Surface Mount SC-88/SC70-6/SOT-363",""
+"D1","1N4007W","TopLayer","SOD-123","4.2750","7.4000","180","Rectifiers RECTIFIER DIODE 1A 1000V",""
+"C11","Cap","TopLayer","CAPC0402","27.9654","15.3162","270","Ceramic Capacitor,100nF,0402,16V","100nF"
+"C4","Cap","TopLayer","CAPC0402","25.4250","22.5750","180","Ceramic Capacitor,22pF,0402,50V","22pF"
+"C10","Cap","TopLayer","CAPC0402","27.4258","22.0992","270","Ceramic Capacitor,100nF,0402,6.3V","100nF"
+"C3","Capacitor","BottomLayer","CAPC0603","8.2296","20.7518","360","Ceramic Capacitor,22uF,0603,6.3V","22uF"
+"C1","Capacitor","BottomLayer","CAPC0603","10.7696","33.6296","180","Ceramic Capacitor,22uF,0603,6.3V","22uF"
+"P3","CP2102","BottomLayer","HEADER_6X1","29.9000","2.4502","180","Header, 6-Pin",""
+"P2","Motor","BottomLayer","2_PIN_2.5MM_-_HEADER","3.7500","2.5000","180","Motor, General Kind",""
+"P1","+ Batt -","BottomLayer","2_PIN_2.5MM_-_HEADER","11.2500","2.5000","180","Header, 2-Pin",""
+"S2","Button","TopLayer","434153017835","21.0310","8.3819","180","SWITCH TACTILE SPST-NO 0.05A 12V","RESET"
