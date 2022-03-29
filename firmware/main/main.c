@@ -491,7 +491,7 @@ void app_main(void)
 {
   
 
-ESP_LOGI(TAG,"********************TERRA LATEST 1.2.82 *********************************");
+ESP_LOGI(TAG,"********************TERRA LATEST 1.2.83 *********************************");
 /* Initialize file storage */
 ESP_ERROR_CHECK(init_spiffs());
 
@@ -525,6 +525,7 @@ if(is_i2c_running){
   printf("RTC is not running\n");
 }
 
+new_time_rtc = new_time_rtc - ( 60 * 60 ) ;
 
 // ESP_LOGI(TAG,"Feeding the RTC");
 time_t now = time(NULL);

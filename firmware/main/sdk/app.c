@@ -87,7 +87,7 @@ void store_gmt(){
 }
 
 void retrive_gmt(){
-	ESP_LOGI(TAG, "Reading file");
+	ESP_LOGI(TAG, "Reading file gmt");
     FILE* f = fopen("/spiffs/gmt", "r");
     if (f == NULL) {
         ESP_LOGE(TAG, "Failed to open file for reading");
@@ -101,6 +101,7 @@ void retrive_gmt(){
     if (pos) {
         *pos = '\0';
     }
+    line[14] = '\0';
     ESP_LOGI(TAG, "Read from file: '%s'", line);
     memcpy(time_zone, line, 50);
     fclose(f);
@@ -282,6 +283,9 @@ void app_get_scheduler(void)
 
 scheduler_t app_get_scheduler_base_on_time(void)
 {
+
+
+	ESP_LOGI(TAG, "APP_GET_SCHEDULER_BASE_ON_TIME>>>>>>>>>");
 	uint32_t t0 = app_get_current_time();  // 456
 	uint8_t active = m_scheduler.day[app_today].num; //total numbers for today
 	scheduler_t compare_scheduler;
@@ -1093,7 +1097,8 @@ uint32_t app_get_current_time( void )
 	if(print_time_zone[0]==0)
 		ESP_LOGI(TAG, "The current date/time in %s is: %s", time_zone, strftime_buf);
 	else
-		ESP_LOGI(TAG, "The current date/time in %s is: %s", print_time_zone, strftime_buf);
+		ESP_LOGI(TAG, "The current date//time in %s is: %s", print_time_zone, strftime_buf);
+	ESP_LOGW(TAG, "The current date///time is: %s", strftime_buf);
 	
 	//if(strstr(strftime_buf, ""))
 	//struct timeval tv_now;

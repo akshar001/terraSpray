@@ -46,7 +46,7 @@ does use more RAM though.
 #define MY_PORT  12345
 #define WAIT_TIME_APP   7000    
 
-#define VERSION "V1.2.82"
+#define VERSION "V1.2.83"
 bool xTaskProceeed = 0;
 int num_clinet = -1;
 int start_in = 1;
